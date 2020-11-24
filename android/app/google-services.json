@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "487676258189",
+    "firebase_url": "https://car-gps-1b00c.firebaseio.com",
+    "project_id": "car-gps-1b00c",
+    "storage_bucket": "car-gps-1b00c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487676258189:android:507cc015e66c8a3d677fc4",
+        "android_client_info": {
+          "package_name": "com.example.car_gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487676258189-999r30uncccgnah3rsdmgugkv9v9ko5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.car_gps",
+            "certificate_hash": "6fbd6ccc968a81f81fbc5a445aa344991283d973"
+          }
+        },
+        {
+          "client_id": "487676258189-4do4ikprl2d1d6460st0ojtqaoadc84t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI4dV0MIN_6LYaKmek1A45AF_5W7vHzw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487676258189-4do4ikprl2d1d6460st0ojtqaoadc84t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
